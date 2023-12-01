@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(71, 68, 68);
+}
+.r1{
+    text-align: center;
+}
+
+
+div#c2{
+    margin-right: 20%;
+    height: 70vh;
+}
+div#c1{
+    margin-left: 20%;height: 70vh;
+    background-color:black;
+    color: white;
+}
+div#b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
